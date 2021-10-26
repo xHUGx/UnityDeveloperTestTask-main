@@ -44,6 +44,6 @@
 
 
 
-- Проект выполнен, пример работы в качестве видео:
+**Проект выполнен, пример работы в качестве видео:
 AR - https://www.youtube.com/watch?v=uYhzYKUC2yo&ab_channel=RomanSayfudinov
 UI- https://www.youtube.com/watch?v=kbAsffntfo4&ab_channel=RomanSayfudinov
